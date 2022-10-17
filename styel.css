@@ -1,0 +1,40 @@
+h1{
+   color: black;
+   background-color: yellow;
+}
+p{
+    color: black;
+}
+.background{
+    background-color: lightblue;
+    /* height: 200px; */
+    width: 200px;
+
+}
+
+
+.background2{
+  background-image: url(download1.jpg);
+  background-repeat: no-repeat;
+  height: ;
+}
+
+.ahmad2 p{
+ /* color: darkblue; */
+ /* text-decoration: blue; */
+ /* background-color: aqua; */
+color: aquamarine ;
+  }
+  
+  .ahmad3 p{
+    /* color: darkblue; */
+    /* text-decoration: blue; */
+    /* background-color: aqua; */
+   color: pink ;
+     }
+     .khu{
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        color: darkred;
+     }
